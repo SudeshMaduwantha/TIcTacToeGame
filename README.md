@@ -3,8 +3,7 @@ This is Tic Tac Toe Game created using Python
 
 ## Screenshots
 
-![Game Screenshot 1](screenshots/TicTacToe-Screenshot-01.png)
-![Game Screenshot 2](screenshots/TicTacToe-Screenshot-02.png)
+![Game Screenshot 1](screenshots/Tic_Tac_Toe_Game.png)
 
 
 ## Description
